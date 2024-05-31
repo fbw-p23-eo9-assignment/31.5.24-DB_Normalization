@@ -65,7 +65,7 @@ For the above 3 tables:
 -   `courses` with ***course_id*** as primary key.
 -   `instructors` with ***course_id*** as primary key.
 
-Create one more table called **"Enrollment"** with `student_id` as primary key. 
+Create one more table called **"Enrollment"**. 
 
 **Students Table:**
 
